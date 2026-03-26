@@ -131,17 +131,7 @@
 
 <br/>
 
-## <img src="https://api.iconify.design/lucide:star.svg?color=%2300D9FF" width="28" align="absmiddle" /> Featured Projects
 
-<div align="center">
-  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bahaeghazi&repo=project-name&theme=transparent&hide_border=true&title_color=00D9FF&text_color=c9d1d9&icon_color=00D9FF&bg_color=0d1117)](https://github.com/bahaeghazi)
-
-</div>
-
-> <img src="https://api.iconify.design/lucide:info.svg?color=%2300D9FF" width="18" align="absmiddle" /> **Tip:** Replace `project-name` with your actual repository names to showcase your best work!
-
-<br/>
 
 ## <img src="https://api.iconify.design/lucide:compass.svg?color=%2300D9FF" width="28" align="absmiddle" /> Current Focus
 
@@ -150,7 +140,7 @@
 ### <img src="https://api.iconify.design/lucide:book-open.svg?color=%2300D9FF" width="20" align="absmiddle" /> Currently Learning
 **Advanced TypeScript** • **Microservices Architecture** • **AI/ML Integration** • **DevOps Practices**
 
-### <img src="https://api.iconify.design/lucide:tool.svg?color=%2300D9FF" width="20" align="absmiddle" /> Working On
+### <img src="https://api.iconify.design/lucide/wrench.svg?color=%2300D9FF" width="20" align="absmiddle" /> Working On
 **Laravel E-commerce Platform** • **React Dashboard** • **Mobile-First Applications**
 
 ### <img src="https://api.iconify.design/lucide:search.svg?color=%2300D9FF" width="20" align="absmiddle" /> Exploring
@@ -183,6 +173,3 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+%E2%9C%A8;Let's+build+something+amazing+together!+%F0%9F%9A%80;Feel+free+to+reach+out!+%F0%9F%91%8B" alt="Typing SVG" />
-</h3>
